@@ -18,23 +18,23 @@ Where Proffys can register describing name, link to profile picture, contact num
 Where students can find Proffys to arranje classes of desired subject via contact number.
 
 ## Features (so far)
-  Proffy's register form
-  Filter of Proffys
+- Proffy's register form
+- Filter of Proffys
   
 ## Features on-the-go
-  Data persistance
-  Login/confirmation pages
-  Enhanced filters
-  Light/dark mode
+- Data persistance
+- Login/confirmation pages
+- Enhanced filters
+- Light/dark mode
   
 ## Techonologies
 The follow technologies and frameworks that were used on the project:
 
-HTML
-CSS
-Javscript
-Node
-Nunjucks
-SQLite
+- HTML
+- CSS
+- Javscript
+- Node
+- Nunjucks
+- SQLite
 
 (eof)
