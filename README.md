@@ -36,5 +36,3 @@ The follow technologies and frameworks that were used on the project:
 - Node
 - Nunjucks
 - SQLite
-
-(eof)
